@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="asset/WEB Development.png" alt="Web Development Course Banner" width="700">
+</p>
+
 # 🌐 Web Development for Beginners  
 ## (HTML, CSS, JavaScript)
 
