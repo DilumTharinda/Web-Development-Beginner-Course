@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="Asset/WEB_Development.png" alt="Web Development Course Banner" width="700">
 </p>
 
