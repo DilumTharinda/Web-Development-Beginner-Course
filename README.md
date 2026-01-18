@@ -7,9 +7,9 @@ This repository contains **all source code, examples, and practice files** used 
 ## 📺 YouTube Course Link
 
 ▶️ **Watch the full course on YouTube:**  
-*(https://youtube.com/playlist?list=PLvOKyaVfOrKTTSAmz85bE5j7sQT2K_YS7&si=Bh7LiO4lHj8yStIA)*
+*https://youtube.com/playlist?list=PLvOKyaVfOrKTTSAmz85bE5j7sQT2K_YS7&si=Bh7LiO4lHj8yStIA*
 
-## 📚 What You Will Learn (What You Gain)
+## 📚 What You Will Learn 
 
 ### ✅ English
 By the end of this course, you will be able to:
@@ -20,12 +20,9 @@ By the end of this course, you will be able to:
 - Link the website to database using **MYSql** and **PHP**
 - Understand frontend and backend web development basics
 
-# වෙබ් අඩවි නිර්මාණය පිළිබද පදනම් පාඨමාලාව
+# 🌐 වෙබ් අඩවි නිර්මාණය පිළිබද පදනම් පාඨමාලාව
 
-මෙම GitHub repository එක තුළ  
-**HTML, CSS, JavaScript** භාවිතා කරමින්  
-මගේ **YouTube වෙබ් ඩිවලප්මෙන්ට් පාඨමාලාවට** අදාල  
-සියලුම **code files, examples සහ projects** ඇතුළත් වේ.
+මෙම GitHub repository එක තුළ **HTML, CSS, JavaScript** භාවිතා කරමින් මගේ **YouTube වෙබ් ඩිවලප්මෙන්ට් පාඨමාලාවට** අදාල සියලුම **code files, examples සහ projects** ඇතුළත් වේ.
 
 මෙම පාඨමාලාව අවසන් වන විට ඔබට:
 - Website එකක් ක්‍රියා කරන ආකාරය තේරුම් ගැනීම
@@ -36,6 +33,8 @@ By the end of this course, you will be able to:
 - කුඩා real-world projects සාදීම
 - Frontend and backend web development මූලික දැනුම ලබාගැනීමට හැකි වේ.
 
+  ▶️ **සම්පූර්ණ පාඨමාලාව මෙතනින් නරඹන්න:**
+*https://youtube.com/playlist?list=PLvOKyaVfOrKTTSAmz85bE5j7sQT2K_YS7&si=Bh7LiO4lHj8yStIA*
   
 
 
